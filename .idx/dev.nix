@@ -19,6 +19,7 @@
     extensions = [
       # "vscodevim.vim"
       "google.gemini-cli-vscode-ide-companion"
+      "bradlc.vscode-tailwindcss"
     ];
     # Enable previews
     previews = {
